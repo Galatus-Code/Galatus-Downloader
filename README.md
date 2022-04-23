@@ -1,1 +1,1 @@
-# Galatus-Downloader
+Inicie o programa usando o seguinte comando na pasta raiz --> node .\outjs\main.js
